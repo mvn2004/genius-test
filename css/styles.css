@@ -269,8 +269,6 @@ ul {
 
 .address-link:hover {
     color: var(--color-brand-light);
-    font-size: 16px;
-    font-weight: 300;
 }
 
 .address-copyright {
