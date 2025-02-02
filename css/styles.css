@@ -550,6 +550,14 @@ ul {
     outline: none;
 }
 
+/* .form-input:disabled {
+    border-color: lightgrey;
+}
+
+.form-input:disabled::placeholder {
+    color: lightgrey;
+} */
+
 .form-input::placeholder {
     color: var(--color-secondary-dark);
     font-size: 16px;
